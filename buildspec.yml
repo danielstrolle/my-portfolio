@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothng to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Daniel-Strolle-Resume.pdf
+    - styles/main.css
+    - images/*
