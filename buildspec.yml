@@ -12,4 +12,4 @@ artifacts:
     - Daniel-Strolle-Resume.pdf
     - styles/main.css
     - images/*
-    -dist/bundle.js
+    - dist/bundle.js
